@@ -1,0 +1,17 @@
+In the folder labled "resources," Right click on the application chromedriver.exe
+
+Hover down and click "Properties"
+
+Highlight the file location, then press ctrl + C
+
+In the text below, highlight only the phrase HighlightMe, then press ctrl + V
+
+<HighlightMe\chromedriver.exe>
+
+click: File > Save
+
+CONGRATULATIONS!
+Your Fencing Cost Calculator Installation is now complete!
+
+Close this window, and double click the application "Fencing Calculator"
+to launch the program.
